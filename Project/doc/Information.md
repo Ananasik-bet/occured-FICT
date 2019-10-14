@@ -1,5 +1,5 @@
 
-#   Система управління документами<a name="1">Система</a>
+#   Система управління документами<a name="1"></a>
 
 [Управління](https://stud.com.ua/45546/dokumentoznavstvo/sistema_upravlinnya_dokumentami) [документами](https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82) в організації повинне включати створення, застосування та адміністрування спеціальних систем, інтегрованих з системою управління та управлінськими процесами.
 Таке управління здійснюється в рамках системи, що носить назву "документний система", або "система управління документами", і визначається як інформаційна система, яка забезпечує збір документів (включення документів в систему), управління документами і доступ до них.
@@ -247,5 +247,43 @@ SearchInform AlertCenter дозволяє використовувати син�
 Незважаючи на високий показник F1, що міститься в наборі даних MUC-7, проблема розпізнавання іменованих сутностей ще далеко не вирішена. Основні зусилля спрямовані на скорочення праці з анотаціями шляхом використання [напівавтоматичного](https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BF%D1%96%D0%B2%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B5_%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F) навчання, надійної роботи в різних областях і масштабування до дрібнозернистих типів об'єктів. Протягом останніх років багато проектів перейшли до [краудсорсингу](https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%83%D0%B4%D1%81%D0%BE%D1%80%D1%81%D0%B8%D0%BD%D0%B3), що є перспективним рішенням, яке дозволить отримати сукупність якісних людських суджень для таких підходів розв'язання РІС, як навчання з учителем та напівавтоматичне навчання. Іншою складною задачею є розробка моделей для роботи з мовними складними контекстами, такими як Twitter і пошукові запити.
 Є дослідники, які зробили деякі порівняння про показники РІС з різних статистичних моделей, таких як ПММ ([Прихована марковська модель](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0_%D0%BC%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C)), МЕ ([Максимум ентропії](https://en.wikipedia.org/wiki/Principle_of_maximum_entropy)), і УВП ([Умовне випадкове поле](https://en.wikipedia.org/wiki/Conditional_random_field)) і набори функцій. Деякі дослідники нещодавно запропонували напівавтоматичну модель навчання на основі графів для задач, пов'язаних з мовними специфічними РІС.
 # Використана література<a name="6"></a>
+
+**Аналіз документів**
+ - [https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
+ - [http://read.virmk.ru/s/SANZ_SOC/g-0353.htm](http://read.virmk.ru/s/SANZ_SOC/g-0353.htm)
+ - [https://studme.org/1359042128798/sotsiologiya/metod_analiza_dokumentov](https://studme.org/1359042128798/sotsiologiya/metod_analiza_dokumentov)
+ - [https://bookonlime.ru/lecture/tema-4-tradicionnyy-analiz-dokumentov](https://bookonlime.ru/lecture/tema-4-tradicionnyy-analiz-dokumentov)
+
+**Система управления документами**
+
+ - [https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8)
+ - [https://blog.iteam.ru/sistemy-elektronnogo-upravleniya-dokumentami-obzor-klassifikatsiya-i-otsenka-vozvrata-ot-vnedreniya/](https://blog.iteam.ru/sistemy-elektronnogo-upravleniya-dokumentami-obzor-klassifikatsiya-i-otsenka-vozvrata-ot-vnedreniya/)
+ - [https://docsvision.com/info-centr/articles/stati_347.html](https://docsvision.com/info-centr/articles/stati_347.html)
+ - [https://center-yf.ru/data/Buhgalteru/sistema-upravleniya-dokumentami.php](https://center-yf.ru/data/Buhgalteru/sistema-upravleniya-dokumentami.php)
+ - [https://bookonlime.ru/lecture/tema-4-tradicionnyy-analiz-dokumentov](https://bookonlime.ru/lecture/tema-4-tradicionnyy-analiz-dokumentov)
+
+**Види пошуку документів**
+
+ - [https://lektsii.com/1-29561.html](https://lektsii.com/1-29561.html)
+ - [https://disted.edu.vn.ua/courses/learn/3121](https://disted.edu.vn.ua/courses/learn/3121)
+ - [https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%88%D1%83%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%96%D1%81%D1%82%D1%8C](https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%88%D1%83%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%96%D1%81%D1%82%D1%8C)
+ - [https://pidruchniki.com/1151051356482/dokumentoznavstvo/informatsiyno-dovidkova_robota_dokumentami](https://pidruchniki.com/1151051356482/dokumentoznavstvo/informatsiyno-dovidkova_robota_dokumentami)
+
+**Обробка природної мови**
+
+ - [https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D1%97_%D0%BC%D0%BE%D0%B2%D0%B8](https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D1%97_%D0%BC%D0%BE%D0%B2%D0%B8)
+ - [https://periodicals.karazin.ua/mia/article/view/10084](https://periodicals.karazin.ua/mia/article/view/10084)
+ - [https://studopedia.su/17_20128_sutnist-problemi-obrobki-prirodnoi-movi.html](https://studopedia.su/17_20128_sutnist-problemi-obrobki-prirodnoi-movi.html)
+ - [http://eprints.zu.edu.ua/26363/1/%D0%9C%D1%83%D0%BA%D0%BE%D0%B2%D0%BD%D1%96%D0%BD.pdf](http://eprints.zu.edu.ua/26363/1/%D0%9C%D1%83%D0%BA%D0%BE%D0%B2%D0%BD%D1%96%D0%BD.pdf)
+ - [https://dou.ua/lenta/columns/lang-uk-development/](https://dou.ua/lenta/columns/lang-uk-development/)
+
+**Розпізнавання іменованих сутностей**
+
+ - [https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85_%D1%81%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85_%D1%81%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9)
+ - [https://github.com/natasha/natasha](https://github.com/natasha/natasha)
+ - [http://irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&I21DBN=UJRN&P21DBN=UJRN&IMAGE_FILE_DOWNLOAD=1&Image_file_name=PDF/jopm_2015_3_18.pdf](http://irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&I21DBN=UJRN&P21DBN=UJRN&IMAGE_FILE_DOWNLOAD=1&Image_file_name=PDF/jopm_2015_3_18.pdf)
+ - [http://dspace.nbuv.gov.ua/bitstream/handle/123456789/126400/16-Marchenko.pdf](http://dspace.nbuv.gov.ua/bitstream/handle/123456789/126400/16-Marchenko.pdf?sequence=1)
+ - [https://github.com/brown-uk/dict_uk/blob/master/doc/announcement.md](https://github.com/brown-uk/dict_uk/blob/master/doc/announcement.md)
+ - [http://ela.kpi.ua/bitstream/123456789/23656/1/Bartkoviak_magistr.pdf](http://ela.kpi.ua/bitstream/123456789/23656/1/Bartkoviak_magistr.pdf)
 
 [До змісту](#10)
