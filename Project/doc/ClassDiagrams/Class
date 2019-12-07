@@ -1,1 +1,72 @@
 
+@startuml
+class UnregisteredUser {
+  {static} int Id
+  {abstract} void Document_Preview()
+  {abstract} void Registration()
+}
+@enduml
+
+@startuml
+class RegisteredUser {
+  {static} int Id
+  {static} int Password
+  {static} string Login
+  {static} string Information
+  
+  {abstract} void Logging_In()
+}
+@enduml
+
+
+@startuml
+class MyDocuments {
+  {static} string Document_Preview
+
+  {abstract} void Search()
+}
+@enduml
+
+@startuml
+class Document {
+  {static} string Tag
+  {static} string Name
+  {static} int Size
+  {static} int Date
+
+  {abstract} void Edit()
+  {abstract} void Remove()
+  {abstract} void Download()
+  {abstract} void Copy()
+  {abstract} void Share_In()
+}
+@enduml
+
+
+@startuml
+class Teg {
+  {static} string Person
+  {static} int Date
+  {static} string Address
+
+  {abstract} void Tag_Installation()
+}
+@enduml
+
+
+@startuml
+class History {
+  {static} string Actions
+  {static} int Date
+
+  {abstract} void ActionHistory()
+  {abstract} void SearchHistory()
+}
+@enduml
+
+@startuml
+class Settings {
+
+  {abstract} void Change_Settings()
+}
+@enduml
