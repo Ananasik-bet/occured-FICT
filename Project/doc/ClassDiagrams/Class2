@@ -1,0 +1,69 @@
+@startuml
+class Events {
+  {static} int ID
+  {static} int DocumentID
+  {static} int OperationID
+  {static} datetime ChangeOnDateTime
+  {static} int ChangedByUserID
+  {static} nvarchar(MAX) Comment
+  {static} nvarchar(MAX) Content
+  {static} decimal SizeinKB
+}
+@enduml
+
+@startuml
+class Operation {
+  {static} int ID
+  {static} varchar Name
+}
+@enduml
+
+
+@startuml
+class Users {
+  {static} int ID
+  {static} varchar Name
+  {static} varchar Password
+  {static} varchar Email
+}
+@enduml
+
+
+@startuml
+class DocumentUsers {
+  {static} int ID
+  {static} int UserID
+  {static} int DocumentID
+}
+@enduml
+
+
+@startuml
+class Documents {
+  {static} int ID
+  {static} nvarchar Title
+  {static} nvarchar Content
+  {static} nvarchar Format
+  {static} varchar Content
+  {static} varchar URL
+  {static} bit IsDeleted
+}
+@enduml
+
+
+@startuml
+class Tag {
+  {static} int ID
+  {static} varchar Type
+  {static} nvarchar(MAX) Data
+}
+@enduml
+
+
+@startuml
+class Incheck {
+  {static} int ID
+  {static} int DocumentID
+  {static} int TagID
+}
+@enduml
